@@ -89,8 +89,6 @@ video-merger-app/
 ├── server.js                    # Main application server
 ├── package.json                 # Dependencies and scripts
 ├── swagger-config.js           # API documentation configuration
-├── test-api.js                 # API client library
-├── examples.js                 # Usage examples
 ├── public/index.html           # Web interface
 ├── uploads/                    # Temporary file storage
 └── output/                     # Merged video output
@@ -138,19 +136,3 @@ For detailed troubleshooting, see [COMPLETE_DOCUMENTATION.md](COMPLETE_DOCUMENTA
 3. Commit changes: `git commit -m "Add new feature"`
 4. Push to branch: `git push origin feature/new-feature`
 5. Submit a pull request
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [FFmpeg](https://ffmpeg.org/) - Powerful video processing
-- [Express.js](https://expressjs.com/) - Web framework
-- [Swagger UI](https://swagger.io/) - API documentation
-
----
-
-**Ready to merge some videos? 🚀**
-
-For detailed documentation, examples, and advanced usage, see [COMPLETE_DOCUMENTATION.md](COMPLETE_DOCUMENTATION.md).
